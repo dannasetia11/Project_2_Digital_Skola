@@ -1,6 +1,7 @@
-## PROJECT 2
-## AIRFLOW dan Snowflake
-## PROJECT 2
+# PROJECT 2
+# AIRFLOW dan Snowflake
+# Fantastic 4 Team
+# Data Engineer Digital Skola
 
 Menjalankan Airflow:
 1. Git Clone / Download folder Git https://github.com/dannasetia11/Project_2_Digital_Skola.git
