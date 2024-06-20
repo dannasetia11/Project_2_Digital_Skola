@@ -9,4 +9,6 @@ Menjalankan Airflow:
 3. Masuk ke Path Project
 4. Masukan perintah "docker-compose build"
 5. Masukan perintah "docker-compose up -d"
-6. Masuk ke Browser (Google Chrome) masukan "http://localhost:8080" atau "http://172.19.232.145:8080" (menggunakan Ip addres local bisa cek di WSL menggunakan perintah ip addr) 
+6. Masuk ke Browser (Google Chrome) masukan "http://localhost:8080" atau "http://172.19.232.145:8080" (menggunakan Ip addres local bisa cek di WSL menggunakan perintah ip addr)
+7. Anda akan masuk menu airflow (masukan username: airflow password: airflow )
+8. Kemudian kalian bisa mengeskprolasi airflow sesaui kebutuhan anda
