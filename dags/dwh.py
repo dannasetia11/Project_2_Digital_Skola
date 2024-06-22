@@ -1,7 +1,5 @@
 from airflow import DAG
-from airflow.providers.postgres.operators.postgres import PostgresOperator
 from airflow.providers.snowflake.operators.snowflake import SnowflakeOperator
-from airflow.providers.snowflake.transfers.postgres_to_snowflake import PostgresToSnowflakeOperator
 from airflow.utils.dates import days_ago
 
 # Definisikan default args
