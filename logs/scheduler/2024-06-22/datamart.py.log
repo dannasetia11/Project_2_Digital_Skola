@@ -1,0 +1,207 @@
+[2024-06-22T13:11:18.376+0000] {processor.py:153} INFO - Started process (PID=40) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:11:18.377+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:11:18.378+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:11:18.378+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:11:18.458+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:11:18.659+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:11:18.659+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:create_datamart_tables
+[2024-06-22T13:11:18.675+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:11:18.675+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:create_datamart_tables
+[2024-06-22T13:11:18.687+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:11:18.687+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:create_datamart_tables
+[2024-06-22T13:11:18.688+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:11:18.687+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:11:18.708+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:11:18.707+0000] {dag.py:2697} INFO - Creating ORM DAG for create_datamart_tables
+[2024-06-22T13:11:18.722+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:11:18.722+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:11:18.756+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.383 seconds
+[2024-06-22T13:11:49.021+0000] {processor.py:153} INFO - Started process (PID=82) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:11:49.022+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:11:49.023+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:11:49.023+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:11:49.064+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:11:49.095+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:11:49.094+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:11:49.136+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:11:49.136+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:11:49.165+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.150 seconds
+[2024-06-22T13:12:19.456+0000] {processor.py:153} INFO - Started process (PID=124) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:12:19.457+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:12:19.458+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:12:19.457+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:12:19.496+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:12:19.534+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:12:19.534+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:12:19.563+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:12:19.562+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:12:19.591+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.140 seconds
+[2024-06-22T13:12:50.227+0000] {processor.py:153} INFO - Started process (PID=166) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:12:50.229+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:12:50.230+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:12:50.230+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:12:50.277+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:12:50.322+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:12:50.322+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:12:50.356+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:12:50.355+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:12:50.383+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.160 seconds
+[2024-06-22T13:13:20.881+0000] {processor.py:153} INFO - Started process (PID=208) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:13:20.882+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:13:20.883+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:13:20.883+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:13:20.919+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:13:20.957+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:13:20.957+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:13:20.982+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:13:20.982+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:13:21.012+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.135 seconds
+[2024-06-22T13:13:51.509+0000] {processor.py:153} INFO - Started process (PID=250) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:13:51.511+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:13:51.513+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:13:51.513+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:13:51.557+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:13:51.599+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:13:51.598+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:13:51.625+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:13:51.624+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:13:51.656+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.152 seconds
+[2024-06-22T13:14:22.280+0000] {processor.py:153} INFO - Started process (PID=292) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:14:22.281+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:14:22.283+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:14:22.283+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:14:22.348+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:14:22.390+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:14:22.390+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:14:22.424+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:14:22.424+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:14:22.448+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.174 seconds
+[2024-06-22T13:14:52.978+0000] {processor.py:153} INFO - Started process (PID=334) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:14:52.979+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:14:52.980+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:14:52.980+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:14:53.052+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:14:53.095+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:14:53.095+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:14:53.123+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:14:53.123+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:14:53.154+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.182 seconds
+[2024-06-22T13:15:24.121+0000] {processor.py:153} INFO - Started process (PID=376) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:15:24.122+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:15:24.123+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:15:24.123+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:15:24.165+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:15:24.207+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:15:24.207+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:15:24.235+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:15:24.235+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:15:24.265+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.147 seconds
+[2024-06-22T13:15:54.740+0000] {processor.py:153} INFO - Started process (PID=418) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:15:54.742+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:15:54.745+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:15:54.745+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:15:54.830+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:15:54.868+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:15:54.868+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:15:54.896+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:15:54.895+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:15:54.920+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.190 seconds
+[2024-06-22T13:16:25.878+0000] {processor.py:153} INFO - Started process (PID=460) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:16:25.879+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:16:25.880+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:16:25.880+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:16:25.916+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:16:25.955+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:16:25.954+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:16:25.983+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:16:25.982+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:16:26.007+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.133 seconds
+[2024-06-22T13:16:56.570+0000] {processor.py:153} INFO - Started process (PID=502) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:16:56.571+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:16:56.573+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:16:56.573+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:16:56.610+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:16:56.646+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:16:56.646+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:16:56.673+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:16:56.673+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:16:56.705+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.138 seconds
+[2024-06-22T13:17:26.971+0000] {processor.py:153} INFO - Started process (PID=544) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:17:26.972+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:17:26.973+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:17:26.973+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:17:27.014+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:17:27.062+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:17:27.062+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:17:27.094+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:17:27.094+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:17:27.120+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.153 seconds
+[2024-06-22T13:17:57.399+0000] {processor.py:153} INFO - Started process (PID=586) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:17:57.400+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:17:57.401+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:17:57.401+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:17:57.442+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:17:57.489+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:17:57.489+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:17:57.523+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:17:57.523+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:17:57.554+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.159 seconds
+[2024-06-22T13:18:27.829+0000] {processor.py:153} INFO - Started process (PID=628) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:18:27.830+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:18:27.831+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:18:27.831+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:18:27.871+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:18:27.915+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:18:27.915+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:18:27.941+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:18:27.941+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:18:27.969+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.144 seconds
+[2024-06-22T13:18:58.115+0000] {processor.py:153} INFO - Started process (PID=670) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:18:58.116+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:18:58.117+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:18:58.117+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:18:58.156+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:18:58.194+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:18:58.194+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:18:58.218+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:18:58.218+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:18:58.246+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.136 seconds
+[2024-06-22T13:19:28.322+0000] {processor.py:153} INFO - Started process (PID=712) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:19:28.324+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:19:28.327+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:19:28.327+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:19:28.399+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:19:28.453+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:19:28.453+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:19:28.491+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:19:28.490+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:19:28.520+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.202 seconds
+[2024-06-22T13:19:58.750+0000] {processor.py:153} INFO - Started process (PID=754) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:19:58.751+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:19:58.754+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:19:58.754+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:19:58.817+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:19:58.880+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:19:58.879+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:19:58.929+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:19:58.928+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:19:58.969+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.223 seconds
+[2024-06-22T13:20:29.167+0000] {processor.py:153} INFO - Started process (PID=796) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:20:29.168+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:20:29.169+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:20:29.169+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:20:29.217+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:20:29.270+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:20:29.269+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:20:29.301+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:20:29.301+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:20:29.341+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.178 seconds
+[2024-06-22T13:20:59.396+0000] {processor.py:153} INFO - Started process (PID=838) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:20:59.398+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:20:59.399+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:20:59.399+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:20:59.462+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:20:59.529+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:20:59.528+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:20:59.567+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:20:59.567+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:20:59.589+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.197 seconds
+[2024-06-22T13:21:30.469+0000] {processor.py:153} INFO - Started process (PID=880) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:21:30.471+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:21:30.472+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:21:30.471+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:21:30.511+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:21:30.551+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:21:30.551+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:21:30.576+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:21:30.575+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:21:30.610+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.144 seconds
+[2024-06-22T13:22:00.688+0000] {processor.py:153} INFO - Started process (PID=922) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:22:00.689+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:22:00.691+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:22:00.690+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:22:00.763+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:22:00.812+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:22:00.812+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:22:00.858+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:22:00.858+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:22:00.885+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.203 seconds
+[2024-06-22T13:22:30.928+0000] {processor.py:153} INFO - Started process (PID=964) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:22:30.929+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:22:30.930+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:22:30.930+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:22:30.968+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:22:31.023+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:22:31.023+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:22:31.049+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:22:31.049+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:22:31.077+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.153 seconds
+[2024-06-22T13:23:01.324+0000] {processor.py:153} INFO - Started process (PID=1006) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:23:01.325+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:23:01.326+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:23:01.326+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:23:01.363+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:23:01.408+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:23:01.408+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:23:01.439+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:23:01.439+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:23:01.470+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.150 seconds
+[2024-06-22T13:23:31.653+0000] {processor.py:153} INFO - Started process (PID=1048) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:23:31.654+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:23:31.655+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:23:31.655+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:23:31.696+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:23:31.739+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:23:31.739+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:23:31.765+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:23:31.765+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:23:31.793+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.144 seconds
+[2024-06-22T13:24:02.264+0000] {processor.py:153} INFO - Started process (PID=1090) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:24:02.266+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:24:02.267+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:24:02.266+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:24:02.325+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:24:02.388+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:24:02.388+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:24:02.423+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:24:02.422+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:24:02.450+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.192 seconds
+[2024-06-22T13:24:32.593+0000] {processor.py:153} INFO - Started process (PID=1129) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:24:32.595+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:24:32.596+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:24:32.596+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:24:32.635+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:24:32.677+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:24:32.677+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:24:32.704+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:24:32.704+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:24:32.743+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.153 seconds
+[2024-06-22T13:25:02.950+0000] {processor.py:153} INFO - Started process (PID=1168) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:25:02.951+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:25:02.952+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:25:02.952+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:25:02.996+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:25:03.039+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:25:03.039+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:25:03.066+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:25:03.066+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:25:03.094+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.148 seconds
+[2024-06-22T13:25:33.306+0000] {processor.py:153} INFO - Started process (PID=1207) to work on /opt/airflow/dags/datamart.py
+[2024-06-22T13:25:33.307+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/datamart.py for tasks to queue
+[2024-06-22T13:25:33.308+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:25:33.308+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/datamart.py
+[2024-06-22T13:25:33.347+0000] {processor.py:753} INFO - DAG(s) dict_keys(['create_datamart_tables']) retrieved from /opt/airflow/dags/datamart.py
+[2024-06-22T13:25:33.387+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:25:33.387+0000] {dag.py:2676} INFO - Sync 1 DAGs
+[2024-06-22T13:25:33.413+0000] {logging_mixin.py:137} INFO - [2024-06-22T13:25:33.413+0000] {dag.py:3427} INFO - Setting next_dagrun for create_datamart_tables to None, run_after=None
+[2024-06-22T13:25:33.442+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/datamart.py took 0.139 seconds
